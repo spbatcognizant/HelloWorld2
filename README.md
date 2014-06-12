@@ -1,4 +1,4 @@
 HelloWorld2
 ===========
 
-Hello World for with JUnit for Testing
+Hello World with JUnit for Testing maven build
