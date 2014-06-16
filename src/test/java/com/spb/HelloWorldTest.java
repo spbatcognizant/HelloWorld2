@@ -11,7 +11,7 @@ public class HelloWorldTest {
 		//fail("Not yet implemented");
 		HelloWorld hw = new HelloWorld();
 		String msg = hw.greeting();
-		assertEquals(msg,"Hello World");
+		assertEquals(msg,"Hello -World");
 	}
 
 }
